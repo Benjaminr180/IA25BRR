@@ -1,0 +1,6 @@
+print("Ingresa un valor para a: ")
+a = int(input())
+print("Ingresa un valor para b: ")
+b = int(input())
+print("Ingresa un valor para c: ")
+c = int(input())
